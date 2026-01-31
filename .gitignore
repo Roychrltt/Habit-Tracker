@@ -54,3 +54,4 @@ temp/
 
 # Project related user info
 habits.json
+*.csv
